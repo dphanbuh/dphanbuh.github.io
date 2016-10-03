@@ -1,0 +1,44 @@
+body{
+	font-family: "Arial", "Comic Sans MS", fantasy;
+	color: #003366;
+	background-color: #7E8F7C;
+}
+
+h1 {
+	font-size: 2.0em;
+	text-align: center;
+	color: 
+}
+
+h2 {
+	font-size: 1.5em;
+	text-align: left;
+	color:
+}
+
+h3 {
+	font-size: 1.5em;
+	text-align: left; 
+}
+
+h4  {
+	font-size: 1.5em;
+	text-align: left; 
+}
+
+h5  {
+	font-size: 1.5em;
+	text-align: left; 
+}
+
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: #EDBB99;
+}
+
+p {
+	font-size: 1.0em;
+	text-align: left;
+	color: #000030;
+}
